@@ -1,0 +1,22 @@
+
+    p{
+        color:white;
+    }
+
+    body{
+        background-size: initial;
+        background:url(https://pbs.twimg.com/media/E9wj3kHWUAEEycX?format=jpg&name=small);
+    }
+
+    div{
+        background-color: rgb(160, 73, 73);
+        border-color: rgb(64, 64, 138);
+        border-width: 4px;
+        border-style: solid;
+    }
+
+
+    span{ 
+        background-color: rgb(255, 255, 255);
+        color: black;
+    }
